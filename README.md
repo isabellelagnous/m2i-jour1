@@ -1,5 +1,6 @@
 # m2i-jour1
+modification  en local
 formation m2i
 creation dans le github
 
-test2
+test de modif locale pour controle merge
